@@ -1,7 +1,0 @@
-C:\Users\Stajyer\source\repos\SAyı tahmin etme oyunu\SAyı tahmin etme oyunu\obj\Debug\SAyı tahmin etme oyunu.csproj.AssemblyReference.cache
-C:\Users\Stajyer\source\repos\SAyı tahmin etme oyunu\SAyı tahmin etme oyunu\obj\Debug\SAyı tahmin etme oyunu.csproj.CoreCompileInputs.cache
-C:\Users\Stajyer\source\repos\SAyı tahmin etme oyunu\SAyı tahmin etme oyunu\bin\Debug\SAyı tahmin etme oyunu.exe.config
-C:\Users\Stajyer\source\repos\SAyı tahmin etme oyunu\SAyı tahmin etme oyunu\bin\Debug\SAyı tahmin etme oyunu.exe
-C:\Users\Stajyer\source\repos\SAyı tahmin etme oyunu\SAyı tahmin etme oyunu\bin\Debug\SAyı tahmin etme oyunu.pdb
-C:\Users\Stajyer\source\repos\SAyı tahmin etme oyunu\SAyı tahmin etme oyunu\obj\Debug\SAyı tahmin etme oyunu.exe
-C:\Users\Stajyer\source\repos\SAyı tahmin etme oyunu\SAyı tahmin etme oyunu\obj\Debug\SAyı tahmin etme oyunu.pdb
